@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Site de Artes Marciais - MBNT TEAM</title>
+  <style>
+    body {
+      background-color: red;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .header {
+      background-color: black;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .logo {
+      width: 150px;
+      height: 150px;
+      margin: 0 auto;
+      display: block;
+    }
+    
+    h1 {
+      color: white;
+      font-size: 30px;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <img class="logo" src="c:\Users\PC Gamer\Downloads\Reels Instagram academia de luta e artes marciais.jpg"    " alt="Logo da MBNT TEAM">
+    <h1>MBNT TEAM</h1>
+  </div>
+</body>
+</html>
+
